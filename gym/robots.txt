@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# CLIENT: replace with the real domain
+Sitemap: https://akhadastrength.in/sitemap.xml
